@@ -1,10 +1,10 @@
 # Hi, I'm Moukthika Nalla! 👋
 
 ### About Me
-I’m an enthusiastic **Computer Science and Engineering** student at **VIT-AP University**, passionate about creating impactful software solutions. With a strong foundation in **Python**, **Java**, and the **MERN stack**, I enjoy tackling complex challenges in **software development** and **machine learning**. My goal is to continuously learn and grow while contributing to innovative projects.
+I’m an enthusiastic **Computer Science and Engineering** student at **VIT-AP University**, passionate about creating impactful software solutions. With a strong foundation in **Python**, **Java**, and the **MERN stack**, I enjoy tackling complex challenges in **problem-solving** and **machine learning**. My goal is to continuously learn and grow while contributing to innovative projects.
 
 ### 🌟 What I Do
-- **Software Development**: Proficient in building efficient and scalable applications using **Java** and **Python**.
+- **Problem Solving with Java**: Skilled in **Java**, I focus on solving complex algorithms and data structure problems.
 - **Web Development**: Experienced in front-end and back-end technologies, particularly with **MERN stack** and **RESTful APIs**.
 - **Machine Learning**: Actively exploring ML models to solve real-world problems with high accuracy.
 
@@ -32,4 +32,5 @@ I’m an enthusiastic **Computer Science and Engineering** student at **VIT-AP U
 ---
 
 I’m always open to collaboration and discussions. Let’s connect and build something amazing together!
+
 
