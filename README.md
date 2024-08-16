@@ -17,7 +17,7 @@ I’m an enthusiastic **Computer Science and Engineering** student at **VIT-AP U
 
 ### 📚 Education
 - **BTech in Computer Science and Engineering** at **VIT-AP University**  
-  (2021 - 2025) | **CGPA**: 9.26
+  (2021 - 2025)
 
 ### 🌐 Let's Connect
 - **GitHub**: [moukthika-n](https://github.com/moukthika-n)
