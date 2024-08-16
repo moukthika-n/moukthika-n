@@ -1,23 +1,35 @@
 # Hi, I'm Moukthika Nalla! 👋
 
 ### About Me
-BTech student in **Computer Science and Engineering** at **VIT-AP University**, passionate about **software development**, **machine learning**, and **web development**. Skilled in **Python**, **Java**, and the **MERN stack**, with strong problem-solving abilities and a quick learner of new technologies.
+I’m an enthusiastic **Computer Science and Engineering** student at **VIT-AP University**, passionate about creating impactful software solutions. With a strong foundation in **Python**, **Java**, and the **MERN stack**, I enjoy tackling complex challenges in **software development** and **machine learning**. My goal is to continuously learn and grow while contributing to innovative projects.
 
-### 👨‍💻 Projects
-- **Harvest: Rice Plant Disease Detection** - Deep learning model achieving **98% accuracy** using **EfficientNet**.
-- **Quizverse** - Online quiz platform for managing and taking quizzes.
-- **Smart Lender** - Loan credibility prediction system with **85% accuracy** using **Design Thinking**.
+### 🌟 What I Do
+- **Software Development**: Proficient in building efficient and scalable applications using **Java** and **Python**.
+- **Web Development**: Experienced in front-end and back-end technologies, particularly with **MERN stack** and **RESTful APIs**.
+- **Machine Learning**: Actively exploring ML models to solve real-world problems with high accuracy.
 
-### 🛠️ Skills
-- **Languages**: Python, Java
-- **Web**: HTML, CSS, JavaScript, MERN
+### 🛠️ Tools & Technologies
+- **Languages**: Python, Java, JavaScript
+- **Web Development**: HTML, CSS, MERN Stack (MongoDB, Express, React, Node.js)
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Vercel, Render, JIRA
-- **Concepts**: REST APIs, MVC, Task Queues, OOP, DSA
+- **Deployment**: Git, Vercel, Render
+- **Other Skills**: OOP, Data Structures & Algorithms, Version Control, Problem-solving, Debugging
 
 ### 📚 Education
-- **BTech, Computer Science** at **VIT-AP University** (CGPA: 9.26)
+- **BTech in Computer Science and Engineering** at **VIT-AP University**  
+  (2021 - 2025) | **CGPA**: 9.26
 
-### 📫 Let's Connect
+### 🌐 Let's Connect
 - **GitHub**: [moukthika-n](https://github.com/moukthika-n)
 - **Email**: nalla.moukthika@gmail.com
+
+![Code](https://github.com/moukthika-n/my-repo/blob/main/assets/code.png)  
+*"Turning ideas into code that solves problems."*
+
+![Tech Stack](https://github.com/moukthika-n/my-repo/blob/main/assets/techstack.png)  
+*Exploring new technologies and applying them to projects that make a difference!*
+
+---
+
+I’m always open to collaboration and discussions. Let’s connect and build something amazing together!
+
