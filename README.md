@@ -23,10 +23,10 @@ I’m an enthusiastic **Computer Science and Engineering** student at **VIT-AP U
 - **GitHub**: [moukthika-n](https://github.com/moukthika-n)
 - **Email**: nalla.moukthika@gmail.com
 
-![Code](https://github.com/moukthika-n/my-repo/blob/main/assets/code.png)  
+![Code](./assets/code.png)  
 *"Turning ideas into code that solves problems."*
 
-![Tech Stack](https://github.com/moukthika-n/my-repo/blob/main/assets/techstack.png)  
+![Tech Stack](./assets/techstack.png)  
 *Exploring new technologies and applying them to projects that make a difference!*
 
 ---
